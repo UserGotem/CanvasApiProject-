@@ -4,6 +4,10 @@
 * Pelaajat, jotka haluavat haastavan ja jännittävän pelikokemuksen.
 * Pelaajat etsivät haastavaa ja jännittävää pelikokemusta.
 
+# Contributors
+*UserGotem
+*coderamongus
+
 # Tuotteen tarjonnan arvo
 API Canvas -projekti tarjoaa pelaajille haastavan ja jännittävän pelikokemuksen. Peli sisältää esteitä, jotka haittaavat pelaajan edistymistä, sekä liikkuvan tasohyppelyn, joka lisää haastetta. Pelaajan on varottava putoamasta tai hänen on aloitettava peli alusta. Vihreä ovi on pelin tavoite, ja pelaajan on saavutettava se voittaakseen.
 
